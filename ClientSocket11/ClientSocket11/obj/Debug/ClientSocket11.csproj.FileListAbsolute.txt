@@ -1,0 +1,6 @@
+C:\Users\Hamid_PC\Documents\my progect\ClientSocket11\ClientSocket11\bin\Debug\ClientSocket11.exe.config
+C:\Users\Hamid_PC\Documents\my progect\ClientSocket11\ClientSocket11\bin\Debug\ClientSocket11.exe
+C:\Users\Hamid_PC\Documents\my progect\ClientSocket11\ClientSocket11\bin\Debug\ClientSocket11.pdb
+C:\Users\Hamid_PC\Documents\my progect\ClientSocket11\ClientSocket11\obj\Debug\ClientSocket11.csprojAssemblyReference.cache
+C:\Users\Hamid_PC\Documents\my progect\ClientSocket11\ClientSocket11\obj\Debug\ClientSocket11.exe
+C:\Users\Hamid_PC\Documents\my progect\ClientSocket11\ClientSocket11\obj\Debug\ClientSocket11.pdb
